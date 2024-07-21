@@ -1,3 +1,3 @@
 # Basic Informational Site
 
-I created a simple node js server
+A simple node js server
